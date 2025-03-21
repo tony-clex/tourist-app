@@ -53,19 +53,19 @@ export const HomeCardItem2 = [
 
 export const HomeCardItem3 = [
   {
-    src: "/public/images/moto.png",
+    src: "/images/moto.png",
     title: "100+ tours around Rwanda",
   },
   {
-    src: "/public/images/tick.png",
+    src: "/images/tick.png",
     title: "100% Trusted travel agency",
   },
   {
-    src: "/public/images/profile (3).png",
+    src: "/images/profileicon.png",
     title: "10 years of travel experience",
   },
   {
-    src: "/public/images/tombs.png",
+    src: "/images/tombs.png",
     title: "90% of travelors are happy",
   },
 ];
@@ -74,7 +74,7 @@ export const TourPackages = [
   {
     title: "Tour Package",
     name: "Home",
-    image: "/assets/orange-nav.svg",
+    image: "/images/CaretRightFilled.png",
     subtitle: "Tour Package",
   },
 ];
@@ -83,7 +83,7 @@ export const GalleryItems = [
   {
     title: "Gallery",
     name: "Home",
-    image: "/assets/orange-nav.svg",
+    image: "/images/CaretRightFilled.png",
     subtitle: "Gallery",
   },
 ];
@@ -92,7 +92,7 @@ export const Contact = [
   {
     title: "Contact Us ",
     name: "Home",
-    image: "/assets/orange-nav.svg",
+    image: "/images/CaretRightFilled.png",
     subtitle: "Gallery",
   },
 ];
