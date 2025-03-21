@@ -9,7 +9,7 @@ export default function Header() {
           <div className="brand-logo">
             <img
               className=""
-              src="/images/logo (4).png"
+              src="https://s3-alpha-sig.figma.com/img/7b44/3779/e00233c67a961c8bfdf2e37a4a1ceb1b?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=OIXTEHBoMp0v3sYrmft7a8HbfWMkS30hEUidZC3i8tCNFy59BFt45JM7aR7RXyi9zOh0jymydP9AsY9U0mXdmpEk3NNyON859VXBNRlUVWGFJfLPht0g72WnoKtbsqaMfyp00we7Wpcjcv3n-fD6Z2f8uO3d5enVq6bSxuSWm46HMkFHvnAK0hU0oEITKlvzQHADUzEAM-36DkDkUjTQzzSJ9a3glGTtZnYffi~AXtI8ZgJqSDnmwiWIpWBdyykn4B4W8Ll3x4Qor6FYHXBrTYYdyVIWJ4lnOh3kVK9dGSmmULpfxWsEqbEo4goJDSKbyIQshdODMR2mwKnVqgxjiQ__"
               alt="logo"
             />
           </div>
