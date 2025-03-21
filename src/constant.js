@@ -26,25 +26,25 @@ export const HomecardItems = [
 
 export const HomeCardItem2 = [
   {
-    src: "/public/images/kigali.png",
+    src: "https://s3-alpha-sig.figma.com/img/a863/7b3c/2e3b6a00b8bbcfe1105f7916ee6a392e?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=c4tOwuBHYkA1Ybveo-ps4q-4PLrKCuyhmO2g8ql3bKhGO9bL4t9Ed5R7dellX9FX6mc7W6MixMyrqJbqMgSVn3z02t~-tlG4A~66ckuTr3GWhSp~8R2r29-tIujkV88QwUe1b5ZItSl7Hx~vS63vIyiSAh6Id0vE5mpKOSaJnqbsQIbErihSQ8Y0ltqYOw126B83S1uP5E9aFxTIiwvlrsOzDEMviunZGJD9jnAFoiYpMqS073CRfDKomlJgb7pd-qvSE-mkVCbentgtLranVmAHnBz0hjItp-9Hjt4RPc9St458f3iOFH-E4lAW6RqsKA~aB8hEUcfscZ4AkcCwJA__",
     title: "Kigali",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat elit sed pretium, egestas sed sitysydy sed volupatekit sed.",
   },
   {
-    src: "/public/images/fr.png",
+    src: "https://s3-alpha-sig.figma.com/img/80dd/5d9d/fbecb6b4f26bc944de8a49c1f1fe7022?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=RWRQ4ELF~BdZxZcS19rM8aLEeC~Smx6B4emDLXgsIPP3RynsGLiN4CSp-dsq3hbWr3eXdOO5CzMPn0NdVqSkBOinMYqD7irMa-fxgEWURMrUmdOnJQZaEGNiyXHN~pQ27bN7H41TXAoCTEZRaNKPQNt~ay4WVnaEEeXvqSfGo-dAnkrWs3TMVx~~og6VcW70h37rMlAEtmj5OekIbpXEOU2nWnoi6cY9JlrNhy2hfKJl~V9b5OsX05iCigh96kELKN1fVHmpCd7Pri-oSO6XdQje3Y2LuxD0Z0PFNMCEoyBgYSshuzmTafuXW04jlbpSw5dUUeQuGrwzMItIYtCIJA__",
     title: "Huye",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat elit sed pretium, egestas sed sit.",
   },
   {
-    src: "/public/images/rubavu.png",
+    src: "https://s3-alpha-sig.figma.com/img/8617/a5ae/25ee4aa2ad522926670eec6990d4dfd8?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=E3xW0Z3SkPQaIcFsGOXC0MGMn5VujzPDJrHAYvUzeQ8MHJYqtBf-hg2lz3ET0wBwKH39DzBfmK42vWuUi6fvPf0bAYeO1plS5swXTA0cXoBPjxGfcRzDwGZCRR2ZNuMb18Xctw~ZBuB8YnjCSLFrt2WMOuVYzGGAjAdafYsm8i-BqXwRlDzn-kmab-9Oj5pEAN~KO5w3nn3-W1Y6wjmcAhGwQ6u0kIey7uXO0aByCCkD9doBuM5MoN050kizwwawJgVkBkqgTALCR-eXyFNCcf9bvH0KS8BWx1wVygDdiQsQ0KyRzFynTbwIsSoUxQrPAdQsizLKocsqWCiCzvJZ9A__",
     title: "Rubavu",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat elit sed pretium, egestas sed sit.",
   },
   {
-    src: "/public/images/musanze.png",
+    src: "https://s3-alpha-sig.figma.com/img/fea2/604b/aee50bbe92ffcd58172c7b9db8afdd94?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=WShTLnJ-rLPtQrwa1sAOlilhZSDW35xtFazjv~J0SYI0I1I3f4VbRwJt-CRjlIQ~wqUTNWxH3nwMIeAo5RHOJits1Y3VS-AtrNFClaxWgC5aqOZsO~0H1S~6vRxa2JFSa7orH1rjgiobfrVN6mQHxLV9V-Bif1I9PEsej4fs4~uHxccuGl72fpfpGShpJz2Xikwws2bClr8K0zB6rUHa7bNEojjdvntF0XuvlaYNCNUL-jJUxC-rgACXwj4xdm4j6svrzf5lnAaZmQ1hMMa7OosPdVSiiEQRldYOA4SKc0r0w-gkYk0Qo3PwEsLHtGUC~1h-WvxTVbxPAdjIAp3BGQ__",
     title: "Musanze",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat elit sed pretium, egestas sed sit.",
@@ -100,21 +100,21 @@ export const Contact = [
 export const CardsItems = [
   {
     image:
-      "/public/images/girl.png",
+      "https://s3-alpha-sig.figma.com/img/4a91/5243/46f4375254a3cac582adae6c336bf56e?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=eTEI467YOiumN-khl0s3M35q5WJisacQkUnQIPKtSfcbaRL0GalJPfpmAylnoCs74-F0yxKRW7e8J1ABV35E5zrS7S9-bk8Qfk2wKJRraviikahuc6AcGlEnAzf7W47fGL2dll96O-e-HjxgcIykFoL81CmZduWJeqAIAk3pfdiofDv9D5TP2UFNR4JDoXD9QQ0NwCo6SMVvAEvYkkPrfB7eE0ac3HaIyOJM3KeR26y2oJy-LcuAQIM~YnMQDwcRrd2m6osSxpD4zDl73-SkK549714oTCOSktHxvUE2lcjiEXQlgdO~F70MQtL636TkpweryRIMXOMl7KkGPxzPrA__",
     title: "Emma Waston",
     description:
       "I recently went on a tour with XYZ Tourism Company and was extremely impressed with the level of professionalism and organization.",
   },
   {
     image:
-      "/public/images/girl.png",
+      "https://s3-alpha-sig.figma.com/img/4a91/5243/46f4375254a3cac582adae6c336bf56e?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=eTEI467YOiumN-khl0s3M35q5WJisacQkUnQIPKtSfcbaRL0GalJPfpmAylnoCs74-F0yxKRW7e8J1ABV35E5zrS7S9-bk8Qfk2wKJRraviikahuc6AcGlEnAzf7W47fGL2dll96O-e-HjxgcIykFoL81CmZduWJeqAIAk3pfdiofDv9D5TP2UFNR4JDoXD9QQ0NwCo6SMVvAEvYkkPrfB7eE0ac3HaIyOJM3KeR26y2oJy-LcuAQIM~YnMQDwcRrd2m6osSxpD4zDl73-SkK549714oTCOSktHxvUE2lcjiEXQlgdO~F70MQtL636TkpweryRIMXOMl7KkGPxzPrA__",
     title: "Emma Waston",
     description:
       "I recently went on a tour with XYZ Tourism Company and was extremely impressed with the level of professionalism and organization.",
   },
   {
     image:
-      "/public/images/girl.png",
+      "https://s3-alpha-sig.figma.com/img/4a91/5243/46f4375254a3cac582adae6c336bf56e?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=eTEI467YOiumN-khl0s3M35q5WJisacQkUnQIPKtSfcbaRL0GalJPfpmAylnoCs74-F0yxKRW7e8J1ABV35E5zrS7S9-bk8Qfk2wKJRraviikahuc6AcGlEnAzf7W47fGL2dll96O-e-HjxgcIykFoL81CmZduWJeqAIAk3pfdiofDv9D5TP2UFNR4JDoXD9QQ0NwCo6SMVvAEvYkkPrfB7eE0ac3HaIyOJM3KeR26y2oJy-LcuAQIM~YnMQDwcRrd2m6osSxpD4zDl73-SkK549714oTCOSktHxvUE2lcjiEXQlgdO~F70MQtL636TkpweryRIMXOMl7KkGPxzPrA__",
     title: "Emma Waston",
     description:
       "I recently went on a tour with XYZ Tourism Company and was extremely impressed with the level of professionalism and organization.",
