@@ -15,6 +15,7 @@ export default function Footer() {
                 <span>Phone: +250 788 123 456</span>
                 <span>Email: info@rwandatourism.com </span>
                 <span>Address: Kigali, Rwanda</span>
+                
               </div>
               <div className="footer-subscribe">
                 <h4>Subscribe to our newspaper</h4>
