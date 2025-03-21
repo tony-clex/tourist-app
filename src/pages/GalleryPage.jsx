@@ -88,19 +88,19 @@ const Gallery = () => {
       alt: "Description ",
     },
     {
-      src: "/public/images/Image Placeholder (8).png",
+      src: "https://s3-alpha-sig.figma.com/img/5e52/ced2/071eff545d1b16dd4bc36fd771859d9d?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Em2S2e09wYAQmfAW2cswHV3DWnXqi4yn0bvoMHYUhcK4s9g~wz~3t3gxaiqxG8ZagvnfbJtnSbja5yKjr-Oe0TAUtwP-KKm-oNbdeqXjQxJ3d6-LXXCoswUPYh~ztJyQexetdTSkuhUEmYupwA9FW-Lb4ZQyYQKB-xg-Wa0e~wZznMrZ8n3ciEOVk21Xr7RUlhAmJkm2r3EfPQ8lqIfTxp2XuPLyQ~ghLcZ-8nI2wplMK3ZX0j4w~hPvzR0UBqhnhfwow5S4eTTHX5v4DAdSHiHTP90LO52UIp10Sub4DvgjBoAckIyrHIGeULEE5BO8bQg2KrNCgndWx9gW4pddPA__",
       alt: "Description ",
     },
     {
-      src: "/public/images/Image Placeholder (7).png",
+      src: "https://s3-alpha-sig.figma.com/img/efdb/cec2/a35932c0e5b21dfbfb30629b08803e12?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=PFsmB8VQoP3ABMEIltsB8oSMrpbTcwi-IXB5U06kSO8t8wtio1sGShi4hwBhI95V5XV4C8F2cu-uEajYgIUSJRz0fT2kPEOCwEZ0cPg7SNM0wrTnHsQ6WUQp9U~UNHbjk4SmYX6Q5IbTOTvyQtutnCeYfvt80vbhDUnmyzaseYUpjbVKL7fgcIL6abgBwcFg7TN072VFmuNG2oaDweuckKYb93IV7QdjcyH63VPjsQkUx4yWCDsBQXCX1r8GSvsiL55CDslJE~CQuqjFRgEBh3dMYnNjkYYqCVXKN~ayn6PJhyt5p9y2YsY4fw-hteMbctWMC-ionrIDQVu~QmiwWA__",
       alt: "Description ",
     },
     {
-      src: "/public/images/Image Placeholder (6).png",
+      src: "https://s3-alpha-sig.figma.com/img/7f97/05cf/efd22d0a9bd512eb96d8b30fd398822a?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=IXw6c7hWMd~SPfTsoFsMf1ua7YrTjEBSzqz5o~pvOPb9fBeo1e1i5R52Bvfqq8ATplWpWkE9SquFkMJPN4nyroVxBFtXI95f6QjkG6oMv5ONHmDuA9MT-VIgBUOZXGDajHMAgvSghDpYUHw4jKpiat2BzLh8AShdmGriqdZhTpHVJSVDeTuRFhIDbkjx41~UJO0s0FoLsNde5L37-Gc6nb8mppVphsdq3EAxrv3a7yEgaBVpt1owMSpexh5LYyzMFJQj2upY6XmBx5TG6OYr1EadhkaiXcQ-xTkYHCJfh6Y5ZMiqTlW-t7L26~8XQNikntHAJoXslcw~6E1i5CHimw__",
       alt: "Description ",
     },
     {
-      src: "/public/images/Image Placeholder (5).png",
+      src: "https://s3-alpha-sig.figma.com/img/45cc/6e79/677858ce7ddeaf45db374c0f14abedc9?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=EioQ2Jb93g2~-uM22pe5jTUFHSKDjNixU8R7GmUK71xZSV7mNynKVpUA73eCja1VFgLc5b1hLT-UcIKM6rv5B1cmWkAS4pLUnqclSI796wFaaDqgUs8w~3HTIe9Og~8bJ1XVa-3k~Dhn4V2PbVr3yqsT~GFZMa6WN62pLxdlE2q1WTIAa9mm0vjjjU-LRxGIIYZAUKM~G5218fWEnRDUwZaoErYqZOjDd5A6wm1wo7iUhsOl04~yFNs~wjGN5yZTSuwLIbax4KTro8IG48-X7~dg~9MhSbZDBkQe9mjnVbZx5oxWkRBWSTuuql8ghFuHQ-XCIrnOxmvJs~cJ5sVf0Q__",
       alt: "Description",
     },
   ];

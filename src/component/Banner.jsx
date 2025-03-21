@@ -6,11 +6,11 @@ export default function Banner() {
         <div className="container banner-flex">
           <div className="group-banner-contact">
             <div className="contact">
-              <img src="/public/images/Vector (1).png" alt="phone" />
+              <img src="/images/phone.png" alt="phone" />
               <span className="phone-number"> +250 784 688 641</span>
             </div>
             <div className="mail">
-              <img src="/public/images/Vector (2).png" alt="email" />
+              <img src="\images\email.png" alt="email" />
               <span className="email"> bbonteemma@gmail.com</span>
             </div>
           </div>
