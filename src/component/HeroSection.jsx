@@ -3,7 +3,7 @@ export default function HeroSection() {
     <>
       <div className="hero-section">
         <img
-          src="/public/images/land.png"
+          src="/public/images/Image Placeholder (25).png"
           alt="island"
         />
       </div>

@@ -1,12 +1,14 @@
-// import "./Button.css";
-
+// Button.js
+// import "./App.css"
 import PropTypes from "prop-types";
 
 export function Button({ onClick, label, style = "primary" }) {
   return (
-    <button className={`button ${style}`} onClick={onClick}>
-      {label}
-    </button>
+    <div className="centered-button-container">
+      <button className={`button ${style}`} onClick={onClick}>
+        {label}
+      </button>
+    </div>
   );
 }
 

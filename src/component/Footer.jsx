@@ -35,7 +35,7 @@ export default function Footer() {
           <div className="social-links">
             <div className="footer-item">
               <div className="brand">
-                <img src="/assets/logo.png" alt="logo" />
+                <img src="/public/images/logo (4).png" alt="logo" />
                 <SocialMedia />
               </div>
               <div className="p-footer">

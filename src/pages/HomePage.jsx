@@ -27,17 +27,20 @@ export default function HomePage() {
               title="Experience the beauty of Rwanda with us"
               subtitle="Discover the Land of a Thousand Hills"
               alignment="left"
+              
             />
-            <HeroForm />
           </div>
         </div>
+        <HeroForm />
       </section>
+      
       <section className="hero-section-form">
         <div className="container">
           <HeadingCard
             subtitle="Choose your Package"
             title="Select your Best Package for your Travel"
             alignment="center"
+            
           />
         </div>
       </section>
