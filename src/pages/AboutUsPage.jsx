@@ -21,7 +21,7 @@ export default function AboutPage() {
         </div>
         <div className="container">
           <div className="about-form">
-            <div className="hero-form">
+            <div className="hero-form-2">
               <form action="" className="form-inputs" id="form-details">
                 <div className="input-field" id="input-field-id">
                   <div className="hero-guest-input">

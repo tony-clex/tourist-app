@@ -26,11 +26,11 @@ a {
 }
 
 a:hover {
-  color: #304F47;
+  color: #304f47;
 }
 
 a:focus {
-  border-bottom: 2px solid #304F47;
+  border-bottom: 2px solid #304f47;
 }
 
 body {
@@ -54,10 +54,9 @@ body {
 .logo {
   padding: 1.5em;
   width: 96px;
-height: 97px;
-top: 60px;
-left: 40px;
-
+  height: 97px;
+  top: 60px;
+  left: 40px;
 }
 
 .site-logo {
@@ -70,23 +69,22 @@ left: 40px;
 h1 {
   font-size: 3em;
   line-height: 1.1;
-
 }
 
 h2 {
   /* font-family: ; */
   font-weight: 700;
   font-size: 48px;
-  Line-height: 57.6px;
+  line-height: 57.6px;
   letter-spacing: 0.5%;
   text-align: center;
 }
 
-ul>a {
+ul > a {
   color: #fff;
 }
 
-footer>ul>a {
+footer > ul > a {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -96,18 +94,23 @@ footer>ul>a {
 .message {
   width: 55.44px;
   height: 57.67px;
-  Top: 4140.43px;
-  Left: 444px;
+  top: 4140.43px;
+  left: 444px;
   gap: 10px;
   border-radius: 8px;
   opacity: 0px;
-  background-color: #C7923E;
+  background-color: #c7923e;
   color: #fff;
   border: 0;
 }
 
 .sign-button-holder {
   margin-left: auto;
+}
+
+.centered-button-container {
+  margin-left: auto;
+  z-index: 1;
 }
 
 /* Button.module.css */
@@ -120,7 +123,7 @@ footer>ul>a {
 }
 
 .primary {
-  background-color: #C7923E;
+  background-color: #c7923e;
   color: white;
 }
 
@@ -167,7 +170,7 @@ section.movie-section {
 
 /* sections */
 
-.hero-section>img {
+.hero-section > img {
   width: 100%;
 }
 
@@ -230,7 +233,7 @@ section.movie-section {
 }
 
 /* Optional: Add different grid patterns */
-.gallery-items1 img:nth-child(3n+1) {
+.gallery-items1 img:nth-child(3n + 1) {
   grid-column: span 2;
   grid-row: span 2;
   aspect-ratio: auto;
@@ -238,17 +241,11 @@ section.movie-section {
 
 /* popular-section */
 .popular-destination-card {
-  width: 100%;
+  width: 1280px;
+  margin: auto;
   display: flex;
   align-items: center;
-  margin-block: 1rem;
-  margin-left: 90px;
-  justify-content: center;
-  gap: 16px;
-  /* overflow-x: scroll;
-  scrollbar-width: 100%;
-  scroll-behavior: smooth;
-  scrollbar-color: #080; */
+  justify-content: space-between;
 }
 
 .popular-card {
@@ -263,7 +260,7 @@ section.movie-section {
   overflow: hidden;
 }
 
-.popular-card>img {
+.popular-card > img {
   width: 304px;
   height: 304px;
   border-radius: 50px;
@@ -275,6 +272,7 @@ section.movie-section {
   flex-direction: column;
   gap: 16px;
   margin-top: 28px;
+  padding-left: 16px;
 }
 
 .popular-card-heading,
@@ -303,7 +301,6 @@ section.movie-section {
   background-color: #fff;
   color: #000;
 }
-
 
 .about-us-hero-content {
   width: calc(1080 / 2);
@@ -338,7 +335,7 @@ section.movie-section {
 .safari-green-bold {
   width: 200px;
   height: 10px;
-  background-color: #304F47;
+  background-color: #304f47;
 }
 
 .safari-africa-blog {
@@ -362,7 +359,7 @@ section.movie-section {
   object-fit: cover;
 }
 
-.image-wrap>img {
+.image-wrap > img {
   width: 100%;
 }
 
@@ -390,12 +387,12 @@ section.movie-section {
 
 .chevron-left {
   border-radius: 8px;
-  border: 1px solid #C7923E;
+  border: 1px solid #c7923e;
 }
 
 .chevron-right {
   border-radius: 8px;
-  background-color: #C7923E;
+  background-color: #c7923e;
 }
 
 /* testimonials */
@@ -410,19 +407,19 @@ section.movie-section {
 
 .orange {
   width: 50px;
-  background-color: #C7923E;
+  background-color: #c7923e;
   padding: 4px;
 }
 
 .green {
   width: 50px;
-  background-color: #304F47;
+  background-color: #304f47;
   padding: 4px;
 }
 
 /* footer styles */
 footer {
-  background-color: #304F47;
+  background-color: #304f47;
   padding: 32px;
   display: flex;
   flex-direction: column;
@@ -450,7 +447,6 @@ footer {
   gap: 2rem;
 }
 
-
 .footer-content {
   display: flex;
   align-items: center;
@@ -472,7 +468,7 @@ footer {
   gap: 2rem;
 }
 
-.footer-item-nav>ul {
+.footer-item-nav > ul {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -513,10 +509,10 @@ footer {
 }
 
 input {
-  Width: 332.62px;
-  Height: 57.67px;
-  Top: 4140.43px;
-  Left: 96px;
+  width: 332.62px;
+  height: 57.67px;
+  top: 4140.43px;
+  left: 96px;
   border-radius: 8px;
   border: 0;
   padding-inline: 14px;
@@ -528,7 +524,7 @@ section {
 }
 
 /* Responsive adjustments */
-@media(min-width: 1080px) {
+@media (min-width: 1080px) {
   section {
     width: 100%;
   }
@@ -541,7 +537,7 @@ section {
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   }
 
-  .gallery-items1 img:nth-child(3n+1) {
+  .gallery-items1 img:nth-child(3n + 1) {
     grid-column: span 1;
     grid-row: span 1;
     aspect-ratio: 1 / 1;

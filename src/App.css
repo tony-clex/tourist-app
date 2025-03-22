@@ -16,7 +16,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #304F47;
+  background-color: #304f47;
 }
 
 .banner-flex {
@@ -71,7 +71,7 @@ nav ul {
 }
 
 .heading-orange {
-  color: #C7923E;
+  color: #c7923e;
   font-size: 1.4rem;
 }
 
@@ -105,7 +105,7 @@ nav ul {
 .hero-heading4 {
   font-size: 24px;
   font-weight: 400;
-  color: #C7923E;
+  color: #c7923e;
 }
 
 .hero-heading-name {
@@ -127,7 +127,7 @@ nav ul {
   padding: 10px;
   gap: 2rem;
   color: #fff;
-  background-color: #304F47;
+  background-color: #304f47;
   border-radius: 4px;
   margin-left: -36px;
 }
@@ -154,10 +154,16 @@ nav ul {
 .hero-form {
   position: absolute;
   bottom: 0px;
-  left: 40px;
+  left: 0;
   margin-left: 12.5rem;
-  
+}
 
+.hero-form-2 {
+  position: absolute;
+  bottom: 0px;
+  top: 50px;
+  left: -48px;
+  margin-left: 12.5rem;
 }
 
 .input-field {
@@ -236,7 +242,7 @@ select {
 }
 
 .form-group input {
-  border: 1px solid #E1E1E1;
+  border: 1px solid #e1e1e1;
   padding-inline: 16px;
   color: #000;
 }
@@ -284,7 +290,7 @@ select {
 #message {
   padding: 16px;
   border-radius: 8px;
-  border: 1px solid #E1E1E1;
+  border: 1px solid #e1e1e1;
   width: 85%;
   background-color: #fff;
   color: #000;
@@ -295,7 +301,7 @@ select {
   align-items: center;
   justify-content: left;
   margin-right: 270px;
-  background-color: #C7923E;
+  background-color: #c7923e;
   color: #fff;
 }
 
@@ -312,7 +318,7 @@ select {
 }
 
 .media p {
-  color: #304F47;
+  color: #304f47;
   text-align: left;
 }
 
@@ -409,7 +415,7 @@ h3 {
   margin-top: 60px;
   width: 350px;
   height: 584px;
-  border: 1px solid #E1E1E1;
+  border: 1px solid #e1e1e1;
   border-radius: 8px;
 }
 
@@ -434,9 +440,10 @@ h3 {
 }
 
 .home-card-3-items {
+  width: 1280px;
+  justify-content: space-between;
   display: flex;
   align-items: center;
-  gap: 3rem;
 }
 
 .home-contact {
@@ -445,7 +452,6 @@ h3 {
   align-items: center;
   overflow: hidden;
   padding: 1rem 0;
-
 }
 
 .home-card-heading {
@@ -471,7 +477,7 @@ h3 {
   width: 250px;
   height: 150px;
   border-radius: 30px;
-  background-color: #304F47;
+  background-color: #304f47;
   padding: 16px;
 }
 
@@ -510,5 +516,3 @@ h3 {
   align-items: center;
   height: 100vh;
 } */
-
-

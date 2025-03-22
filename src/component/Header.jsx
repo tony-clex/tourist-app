@@ -36,7 +36,7 @@ export default function Header() {
             </ul>
           </nav>
           <Button label="SignIn" />
-          <Button label="learn more" />
+          {/* <Button label="learn more" /> */}
         </div>
       </div>
     </>
