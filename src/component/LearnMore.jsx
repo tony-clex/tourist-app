@@ -1,10 +1,8 @@
-// Button.js
-// import "./App.css"
 import PropTypes from "prop-types";
 
-export function Button({ onClick, label, style = "primary" }) {
+export function LearnMoreButton({ onClick, label, style = "primary" }) {
   return (
-    <div className="centered-button-container">
+    <div className="learn">
       <button className={`button ${style}`} onClick={onClick}>
         {label}
       </button>
@@ -12,7 +10,7 @@ export function Button({ onClick, label, style = "primary" }) {
   );
 }
 
-Button.propTypes = {
+LearnMoreButton.propTypes = {
   onClick: PropTypes.func,
   label: PropTypes.string,
   style: PropTypes.string,

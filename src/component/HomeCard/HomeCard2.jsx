@@ -1,21 +1,21 @@
 import PropTypes from "prop-types";
-import { Button } from "../Buttons";
+import { LearnMoreButton } from "../LearnMore";
 
-export default function HomeCard({ src, title, description }) {
+export default function HomeCard2({ src, title, description }) {
   return (
     <>
       <div className="home-card">
         <img className="package-image" src={src} alt="title" />
         <h3 className="home-card-heading">{title}</h3>
         <p className="home-card-paragraph">{description}</p>
-        <Button label="learn more" />
+        <LearnMoreButton label="learn more" />
         <div className="home-button">{/* <Button label="Learn More" /> */}</div>
       </div>
     </>
   );
 }
 
-HomeCard.propTypes = {
+HomeCard2.propTypes = {
   src: PropTypes.object,
   title: PropTypes.string,
   description: PropTypes.string,

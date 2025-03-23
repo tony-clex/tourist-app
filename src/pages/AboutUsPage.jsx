@@ -21,7 +21,7 @@ export default function AboutPage() {
         </div>
         <div className="container">
           <div className="about-form">
-            <div className="hero-form">
+            <div className="hero-form-2">
               <form action="" className="form-inputs" id="form-details">
                 <div className="input-field" id="input-field-id">
                   <div className="hero-guest-input">
@@ -56,7 +56,7 @@ export default function AboutPage() {
         </div>
         <img
           className="about-us-hero-image"
-          src="https://s3-alpha-sig.figma.com/img/4ff2/5fbb/d22801330eccf9aaeedf7388f729ecdf?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=szEUR6hNWkXzJIOVxDtJrT-TXVhNj5bWHAWhZyDfvjEjnPRhIwR750uREpQLgLKzhTGQ08U~F1sQt2oX3ZrgHXO9MgOn9CxEoyWSek0GvKkz0r7rl16qmn-4ZrUTlY3QdFfGb9WgNy0ToNd-DwtGVUnd6mDIZGLGtXza1hufCrG~9GinbDc7n2AesJyvlsQQwdduRwh-sT5y2kr92sIWVWyyf6QQEz1VUV8GpqBTLZp3pu5aV5f0L~0jLoLvrQRARY5qWM9QI6lAele9TXfXPfT9mryWXUUBScuw5yaxczQVnkpOLzLb6dWDBXWeCeZCFP47V41VwAPnkNYSTNZazw__"
+          src="https://s3-alpha-sig.figma.com/img/4ff2/5fbb/d22801330eccf9aaeedf7388f729ecdf?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=lEeXOd~NLNPd6XCObmaV~zYBNm9loEoJ1NvGhDzAS3tzPeqCWiWX1o6C5BYe3keqsQN~wJZ64D9ZWQJ5WtmhsJlLB2wANUv-WnZrUfV4PN1b2hlMdcYEzrx7~8SDhxyuLI2fOHkTZrxygDFM5Q5jYmO5fxd1NsG4DHXyAEE2hxpWlrRqY-An9QaPqxX8xNxeFhVK0wHJoEheRCDbAtpQorKciMybMefiYlRwIdhvmsGWydn~xwRG8XEDUWvD-1KERe7zjZWTKK4rgEbHptT63iSM-hjpk9DFWkn1SC~M9lw~GTkmJm4p3RtCnd3dNPqsAjGP2xsDMwB~OxCpim2nGg__"
           alt="monkeys"
         />
       </section>
@@ -71,7 +71,7 @@ export default function AboutPage() {
         <div className="about-africa-safari">
           <div className="image-wrap">
             <img
-              src="https://s3-alpha-sig.figma.com/img/8c88/8b29/002577f7500b2ab4a99aaa7d8e6be7f0?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=QZofUFwutUu1VyMqr~cErUsYGJrnpHnjb78T7n7Fqg12lWSdRzJtAa9LWR9r8rmE7McnomsQTBHjzwXdj2-XUaNEtAqGSQvET1lZeBnh4Bm1z05QGOj41DHomDaUIJVytMK84dZBvGTv~yMFmalzoYE55hLZ5cCkHwtf0PjxN1tTYQqWLaZTNXdIVRavEIPbthDuiuzGLF7~dFioLYpOsu9vtin2doQL1gZIiyLhC1~BxCfBmxRtPaZ0JKsUuUtMtNDUmxH1H~oU27haaOJoFZbkKhN9kAUrpiLOsqm35YdSqAb2GQpn2aFTpedPKhOFrRdHK73K-qfu8kHDOQ37Qw__"
+              src="https://s3-alpha-sig.figma.com/img/8c88/8b29/002577f7500b2ab4a99aaa7d8e6be7f0?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=DUkVYW5a4CbNunraibl-GG7aMsQNNvoVw0yGlq8O9dBkUxlNeXHYM2tANom84NHHLPRISnSsBgK63Jz2gklASXl3TdtuNcwjMw7hyKOoXqormxHAUnWMU8-6HlqEZW5g3BPsfTZvlT4upmY3O4ERzAmBg2qIWmjfCs9Wcb6ePfnEKJHBgh9rdHKQnklHH2TQ6T3PUcEyecIsb7sXai1pGLAwTb3YUbkT6qTBAVmWc8lk5QDQDh6Hzxz39jO4qA0vzJhqDcvoROue2xB1B74dBr2gcDEioVIjPlneT-Zv~zK7~VNpcVLdLMKeonv6CZ14dqvxo6szudfy~xIxJ74n6g__"
               alt=""
             />
           </div>
@@ -85,6 +85,7 @@ export default function AboutPage() {
               sustainable development of the country through responsible tourism
               practices.
             </p>
+          
           </div>
         </div>
         <div className="about-africa-safari">
@@ -101,7 +102,7 @@ export default function AboutPage() {
           </div>
           <div className="image-wrap">
             <img
-              src="https://s3-alpha-sig.figma.com/img/7600/56f9/b94a31ecc9af090ab219a5e6a933a894?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=fmpo6W91lMBqir8hCS~HYsn2LlpOdNICYOjCF0~52MLGSDTnLiQy1cj5sH2-WlgL68qOIKRLaRcJx4I2C15~IsmXzMUbxYg1npkYAZiGVL0KFKkiAzGG64BqzI5jjOu5RI-Hp44OVG9cUEvCl3DbsHQsR652XCrEoNWJWJLWMWssvJPYkLgxt9oxFYOFV23XOwa2Bib9FoT3qX0DqMSHYVAMl7dQ2wgMc69QebtgPBejyxKUngld~zy9qcB6SYePWothSPhfTJ84ooq7l7boqUrGlB5J57YXMVBvFDRlYC3bSm-6hhO2nDC3IVb2TUVuK~uwkNOF6LsoyBYto0keKw__"
+              src="https://s3-alpha-sig.figma.com/img/7600/56f9/b94a31ecc9af090ab219a5e6a933a894?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=XivZg41K-e32KCsVbIeOJ6pNGbC8ig7FsHrf9K6h~UVud7789Vr2Xi6gamrtpCJ4nHV9xbKHwDNX-7MLVrHaE8zbHxJ11AhuHUS39vLE5k6HPs7fB8a6PmRkiPuHuitbr22FdsZ7v3lbVuxnhemOzthLyFDKSnu5Iv-w4QoI6CZxjSb9TLI~q5n8XeHGQMluE65kZPD0gG1bXIECQ-ldh0wUCfYuoKZdrRtR5DGBfmr4LH~JBORCiYZf7Se~O-RuZN6cLKjflPfslnh1R9BqIOQ4hGcTeh3mNUbhwChbYNy7~kN6MVG7oy58tPzI9Dbme-NMzP4saKdehPzYLofDpg__"
               alt=""
             />
           </div>
@@ -109,7 +110,7 @@ export default function AboutPage() {
         <div className="about-africa-safari">
           <div className="image-wrap">
             <img
-              src="https://s3-alpha-sig.figma.com/img/fd63/971c/9ce5d2804ffd9f32ac67720292bd35a8?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ngOyS3R6XL2OhjBFCtMPVWY--aggR7klENKI-aaTaKPswcEjmCaxH5JicSHuwfUHGek3F4FjwmVAuRXaL-ThMycsBthJOgU70F0gCFa6ESOQUfwcbBFKa1LU1WfvEFuualujo8dMG4qgvD779QAgOigYKvtfvq0rn6BJLSPsrFHKtC0-Pwgcmb6ORBjH6jEULET1TggLQverAsW7hjbJ7NOSnsXNgujzKyDnmK8PjXdWEp-JIsoIbFCs3DQZP905vm-4iJAswOrABAN99mONc5VreTutSsJC0WV8m4Cp5HLqksXY1CRgBkBKf-yJm-6vJDCvObli4N6goU9ZEY6OeA__"
+              src="https://s3-alpha-sig.figma.com/img/fd63/971c/9ce5d2804ffd9f32ac67720292bd35a8?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=tXckDIaPbPgmvrNgwpW19trCyoIUx6g3T386gckX7e9gE6EMPsbLlb6ITwebYf7jPapTcpLTx4a-0IhpujhfNsPRAC45LnIfwKPseB66tdTyjvwM47Fv3xn6AxIqfZb6LQU43kRIRG8KBzcD4j1sUK0q41THbXLvOLM7gmCz9bI0XW4smG~ax~o7yrGUDN4zZ1BedEV7nIPq0BF8joZ-mA~qansWTq7ipar1pbrQedjkibYlhCXKjIoPlQv0jV9lntCqfGL~tFShSQos1lYqYhZFOS0XDnCpJ6P03~cHdI8NlkJCUH1saatKTY6ql6LRVsUuVgBTTYeqKAXgCzUTwQ__"
               alt=""
             />
           </div>

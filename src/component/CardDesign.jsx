@@ -11,6 +11,7 @@ export default function Card({ image, title, description }) {
         <div className="card-content">
           <h3>{title}</h3>
           <p>{description}</p>
+         
         </div>
       </div>
     </>

@@ -7,6 +7,7 @@ import { HeadingCard } from "../component/SectionHeading";
 import HeroForm from "../component/HeroForm";
 import Card from "../component/CardDesign";
 import HomeCard from "../component/HomeCard/HomeCard";
+import HomeCard2 from "../component/HomeCard/HomeCard2";
 import { HomecardItems } from "../constant";
 import { HomeCardItem2 } from "../constant";
 import { HomeCardItem3 } from "../constant";
@@ -27,17 +28,20 @@ export default function HomePage() {
               title="Experience the beauty of Rwanda with us"
               subtitle="Discover the Land of a Thousand Hills"
               alignment="left"
+              
             />
-            <HeroForm />
           </div>
         </div>
+        <HeroForm />
       </section>
+      
       <section className="hero-section-form">
         <div className="container">
           <HeadingCard
             subtitle="Choose your Package"
             title="Select your Best Package for your Travel"
             alignment="center"
+            
           />
         </div>
       </section>
@@ -45,7 +49,7 @@ export default function HomePage() {
         <div className="container">
           <div className="home-card-items">
             {HomecardItems.map((items, index) => (
-              <HomeCard
+              <HomeCard2
                 key={index}
                 src={items.src}
                 title={items.title}
@@ -55,7 +59,7 @@ export default function HomePage() {
           </div>
           <div className="home-card-items">
             {HomecardItems.map((items, index) => (
-              <HomeCard
+              <HomeCard2
                 key={index}
                 src={items.src}
                 title={items.title}

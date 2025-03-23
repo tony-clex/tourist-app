@@ -2,13 +2,13 @@ export default function SocialMedia() {
   return (
     <>
       <div className="media-accounts">
-        <img src="/assets/facebook.svg" />
+        <img src="/images/face.png" />
 
-        <img src="/assets/twitter.svg" />
+        <img src="/images/Social button.png" />
 
-        <img src="/assets/linkedin.svg" />
+        <img src="/images/Social button (1).png" />
 
-        <img src="/assets/instagram.svg" />
+        <img src="/images/i.png" />
       </div>
     </>
   );
