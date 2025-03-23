@@ -26,7 +26,7 @@ export default function Footer() {
                     placeholder="Input your email here"
                   />
                   <button className="message">
-                    <img src="/assets/message.png" alt="" />
+                    <img src="/images/se.png" alt="" />
                   </button>
                 </form>
               </div>
